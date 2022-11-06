@@ -14,3 +14,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконав: Блоха Ярослав
